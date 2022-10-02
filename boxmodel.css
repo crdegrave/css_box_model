@@ -4,33 +4,33 @@
     width: 80px;
 }
     
-    #flag2 {
-    background-color: green; 
-    height: 400px; 
-    width: 80px;
-    }
-    
-    #flag3 {
-    background-color: red; 
-    height: 400px; 
-    width: 80px;
-    }
-    
-    #romflag {
-    background-color: yellow; 
-    height: 240px; 
-    width: 133px;
-    margin: 100px; 
-    margin-left: 50px;
-    border: 133px solid red;
-    } 
-    
-    #balloon {
-    height: 375px; 
-    width: 300px;
-    margin-top: 100px; 
-    margin-left: 100px;
-    border: 5px dashed red; 
-    padding: 10px 10px 5px 5px; 
-    }
+#flag2 {
+background-color: green; 
+height: 400px; 
+width: 80px;
+}
+
+#flag3 {
+background-color: red; 
+height: 400px; 
+width: 80px;
+}
+
+#romflag {
+background-color: yellow; 
+height: 240px; 
+width: 133px;
+margin: 100px; 
+margin-left: 50px;
+border: 133px solid red;
+} 
+
+#balloon {
+height: 375px; 
+width: 300px;
+margin-top: 100px; 
+margin-left: 100px;
+border: 5px dashed red; 
+padding: 10px 10px 5px 5px; 
+}
     
